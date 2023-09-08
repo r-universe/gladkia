@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "BrowserViz"]
+	path = BrowserViz
+	url = https://github.com/gladkia/browserviz
+[submodule "igvR"]
+	path = igvR
+	url = https://github.com/gladkia/igvr
