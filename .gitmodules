@@ -8,3 +8,6 @@
 [submodule "igvR"]
 	path = igvR
 	url = https://github.com/gladkia/igvr
+[submodule "igvShiny"]
+	path = igvShiny
+	url = https://github.com/gladkia/igvshiny
